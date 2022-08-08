@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**ben-marrett/ben-marrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m actively looking for a Front-End or Full-Stack developer role using JavaScript.
+- 🌱 I’m currently learning MongoDB & NextJS
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/) / [Email](benteiko@gmail.com)
+- ⚡ Fun fact: In 2007 I got to go and play in China with my band!
+<br/><br/>
+<div style="text-align: center;">
+ 
+[![CodeWars](https://www.codewars.com/users/BenTeiko/badges/large) ](https://www.codewars.com/users/BenTeiko)
 
-Here are some ideas to get you started:
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ben-marrett&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-marrett&theme=blue-green)
+
+</div>
+
+ <!-- 🤔 I’m looking for help with  -->
