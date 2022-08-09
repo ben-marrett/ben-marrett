@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ben.
 
-- 🔭 I am actively looking for a Front-End or Full-Stack developer role utilizing JavaScript.
+- 🔭 I am actively looking for a Front-End or Full-Stack developer role.
 - 🌱 Currently learning: MongoDB & NextJS.
 - 📫 Reach out to me at: [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/)
 - 📫 Or email: [benteiko@gmail.com](benteiko@gmail.com)
