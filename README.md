@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Ben.
 
-- 🔭 I am actively looking for a Front-End or Full-Stack developer role.
-- 🌱 Currently learning: MongoDB & NextJS.
-- 📫 Reach out to me at: [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/)
+- 💻 I am actively looking for a Front-End or Full-Stack developer role.
+- 🌱 Currently diving into NextJS & MongoDB.
+- 🤝 Reach out to me on [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/)
 - 📫 Or email: [benteiko@gmail.com](benteiko@gmail.com)
-- ⚡ Fun fact: In 2007 I got to travel from Scotland to go and play at a beach festival in China with my band!
 <br/><br/>
 <div style="text-align: center;">
  
