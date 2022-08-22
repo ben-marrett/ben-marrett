@@ -1,10 +1,12 @@
-### Hi there 👋  I'm Ben.
+### Hi there 👋  I'm Ben. 
 
-- 💻 I am actively looking for a Front-End or Full-Stack developer role.
-- 🌱 Currently diving into NextJS, as well as learning Python & Django for a volunteer project.
+- 💻 Available for a remote Front-End or Full-Stack developer role.
+- 🌱 Currently diving into Next.js in my spare time.
+- :zap: Working with React, Redux-Toolkit, Python & Django for a cool volunteer project I am involved with @ [PlantMe.io](https://plantme.io)
 - 🛠️ I have experience building with JavaScript, HTML/CSS, React, Redux, ChakraUI, NodeJS, ExpressJS, KnexJS & SQLite
-- 🤝 Reach out on [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/)
-- 📫 Or email [benteiko@gmail.com](benteiko@gmail.com)
+- :revolving_hearts: Thorough experience working effectively in teams, giving and receiving feedback, understanding client needs.
+- 🤝 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/)
+- 📫 Email [benteiko@gmail.com](benteiko@gmail.com)
 <br/><br/>
 <div style="text-align: center;">
  
