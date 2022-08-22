@@ -20,7 +20,7 @@
 This badge links to some wee challenges I've completed over the last year or so: <br/>
  <br />
  
-[![CodeWars](https://www.codewars.com/users/BenTeiko/badges/large) ](https://www.codewars.com/users/BenTeiko)
+[![CodeWars](https://www.codewars.com/users/BenTeiko/badges/large) ](https://www.codewars.com/users/BenTeiko/completed_solutions)
 
 
  <!-- 🤔 I’m looking for help with  -->
