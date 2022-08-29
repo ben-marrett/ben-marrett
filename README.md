@@ -1,10 +1,10 @@
 ### Hi there 👋  I'm Ben
 
-- 💻 Aiming to secure a remote Front-End or Full-Stack developer role.
-- 🌱 Currently diving into Next.js on a personal project in my spare time.
-- :zap: Working(via GitLab) with React Bootstrap, Redux-Toolkit & Django for a Growathon project with [PlantMe.io](https://plantme.io)
-- 🛠️ I have experience building with JavaScript, HTML/CSS, React, Redux, ChakraUI, NodeJS, ExpressJS, KnexJS & SQLite
-- :revolving_hearts: Thorough experience working effectively in teams, giving and receiving feedback, understanding client needs.
+- 💻 Actively seeking a remote Front-End or Full-Stack developer role.
+- :zap: Currently volunteering in a team using React Bootstrap, Redux-Toolkit & Django at [PlantMe.io](https://plantme.io)
+- 🌱 Diving into Next.js on a small personal project in my spare time.
+- 🛠️ Remote bootcamp experience building with JavaScript, HTML/CSS, React, Redux, ChakraUI, NodeJS, ExpressJS, KnexJS & SQLite
+- :revolving_hearts: Community experience working effectively in teams, giving and receiving feedback, and understanding client needs.
 - 🤝 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/)
 - 📫 Email [benteiko@gmail.com](benteiko@gmail.com)
 <br/><br/>
