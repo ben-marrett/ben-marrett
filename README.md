@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Ben
 
-- 💻 Aiming towards a remote Front-End or Full-Stack developer role.
+- 💻 Aiming to secure a remote Front-End or Full-Stack developer role.
 - 🌱 Currently diving into Next.js on a personal project in my spare time.
 - :zap: Working via GitLab with React Bootstrap, Redux-Toolkit, Python & Django for a volunteer Growathon project with [PlantMe.io](https://plantme.io)
 - 🛠️ I have experience building with JavaScript, HTML/CSS, React, Redux, ChakraUI, NodeJS, ExpressJS, KnexJS & SQLite
