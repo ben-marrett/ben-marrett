@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Ben
 
-- 🌱 Currently volunteering in a team using React Bootstrap, Redux-Toolkit & Django at [Growathon NZ](https://growathon.co.nz)
+- 🌱 Currently volunteering in a remote team using React Bootstrap, Redux-Toolkit & Django at [Growathon NZ](https://growathon.co.nz)
 - :zap: Diving into Next.js on a small personal project in my spare time.
 - 🛠️ Remote bootcamp experience building with JavaScript, HTML/CSS, React, Redux, ChakraUI, NodeJS, ExpressJS, KnexJS & SQLite
 - :revolving_hearts: Community experience working effectively in teams, giving and receiving feedback, understanding client needs.
