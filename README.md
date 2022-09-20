@@ -1,11 +1,11 @@
-### Hi there 👋  I'm Ben
+### Hi, I'm Ben.
 
-- 🌱 Currently volunteering in a remote team via GitLab using React Bootstrap, Redux-Toolkit & Django at [Growathon NZ](https://growathon.co.nz)
-- :zap: Diving into Next.js on a small personal project in my spare time.
-- 🛠️ Remote bootcamp experience building with JavaScript, HTML/CSS, React, Redux, ChakraUI, NodeJS, ExpressJS, KnexJS & SQLite
-- :revolving_hearts: Community experience working effectively in teams, giving and receiving feedback, understanding client needs.
-- 🤝 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/)
-- 📫 Email [benteiko@gmail.com](benteiko@gmail.com)
+- 🌱 I am currently gaining further experience volunteering in a remote team via GitLab using React Bootstrap, Redux-Toolkit & Django at [Growathon NZ](https://growathon.co.nz)
+- :zap: In my spare time I'm diving into Next.js, Redis, and other tech on a Thoughtstorm Log project.
+- 🛠️ Earlier this year I had some epic remote bootcamp experience building in teams with JavaScript, HTML/CSS, React, Redux, ChakraUI, NodeJS, ExpressJS, KnexJS & SQLite
+- :revolving_hearts: Decade of real world community experience working effectively in teams, giving and receiving feedback, and understanding client needs.
+- 🤝 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/)
+- 📫 Email me at [benteiko@gmail.com](benteiko@gmail.com)
 <br/><br/>
 
 ### GitHub Stats
