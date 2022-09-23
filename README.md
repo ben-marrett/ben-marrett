@@ -1,8 +1,8 @@
 ### Hi, I'm Ben.
 
-- 🌱 Volunteering with a remote team via GitLab using React Bootstrap, Redux-Toolkit & Django.
+- 🛠️ Experience building in remote teams with JavaScript, HTML/CSS, React, Redux, ChakraUI, NodeJS, ExpressJS, KnexJS & SQLite
+- 🌱 Currently volunteering with GrowathonNZ over at GitLab using React Bootstrap, Redux-Toolkit & Django.
 - :zap: Diving into Next.js, Redis, and other tech on a personal Thoughtstorm® Log project.
-- 🛠️ Experience building in teams with JavaScript, HTML/CSS, React, Redux, ChakraUI, NodeJS, ExpressJS, KnexJS & SQLite
 - :revolving_hearts: Experienced working effectively in teams, giving and receiving feedback, and understanding client needs.
 - 🤝 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/)
 - 📫 Email me at [benteiko@gmail.com](benteiko@gmail.com)
