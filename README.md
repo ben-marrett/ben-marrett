@@ -1,6 +1,6 @@
 [![CodeWars](https://www.codewars.com/users/BenTeiko/badges/large) ](https://www.codewars.com/users/BenTeiko/completed_solutions)
 
- 🛠️ Experience in remote teams, building with JavaScript, HTML/CSS, NodeJS, React, Redux, ChakraUI, SQLite & more.\
+ 🛠️ Experience building with JavaScript, HTML/CSS, NodeJS, React & more.\
  🌱 Currently volunteering for Growathon NZ using GitLab, React Bootstrap, Redux-Toolkit & Python/Django.\
  :zap: Diving into Next.js and Redis on a personal project in my spare time.\
  🤝 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/)\
