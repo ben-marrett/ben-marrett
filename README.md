@@ -9,7 +9,7 @@
 <br/><br/>
 <div style="text-align: center;">
  
-See some coding challenges I have been taking on:<br/>
+Click the Codewars badge to see some challenges I have taken on recently:<br/>
 <br/>
 [![CodeWars](https://www.codewars.com/users/BenTeiko/badges/large) ](https://www.codewars.com/users/BenTeiko/completed_solutions)
 
