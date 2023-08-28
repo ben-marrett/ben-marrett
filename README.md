@@ -8,6 +8,8 @@
 <br/><br/>
 <div style="text-align: center;">
  
+See some coding challenges I have been taking on:<br/>
+<br/>
 [![CodeWars](https://www.codewars.com/users/BenTeiko/badges/large) ](https://www.codewars.com/users/BenTeiko)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ben-marrett&show_icons=true)
