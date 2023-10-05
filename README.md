@@ -1,11 +1,8 @@
 ### Hi there 👋 I'm Ben.
 
-- 🔭 I am actively looking for a Front-End or Full-Stack developer role utilizing JavaScript, Node and React.
-- 🌱 Currently learning: Testing with Playwright.
-- 📚 Currently reading: Mastering Bitcoin by Andreas Antonopoulos & The Pragmatic Programmer by Thomas and Hunt
+- 🌱 Currently learning and building with: JavaScript, Node and React.
 - 📫 Reach out to me at: [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/)
 - 📫 Or email: [benteiko@gmail.com](benteiko@gmail.com)
-- ⚡  Fun fact: In 2007 I was honoured to travel from Scotland to go and play at Dalian beach festival in China with my band!
 <br/><br/>
 <div style="text-align: center;">
  
