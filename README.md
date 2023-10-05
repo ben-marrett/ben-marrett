@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Ben.
 
 - 🌱 Currently learning and building with: JavaScript, Node and React.
-- 📫 Reach out to me at: [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/)
-- 📫 Or email: [benteiko@gmail.com](benteiko@gmail.com)
+- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/), or email: [benteiko@gmail.com](benteiko@gmail.com)
 <br/><br/>
 <div style="text-align: center;">
  
