@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ben.
 
 - 🌱 Currently building with TypeScript, Node and Leaflet.
-- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/), or email: [benteiko@gmail.com](benteiko@gmail.com)
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/ben-teiko-marrett/), or email: [benteiko@gmail.com](benteiko@gmail.com)
 <br/><br/>
 <div style="text-align: center;">
  
