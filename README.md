@@ -1,16 +1,17 @@
-### Ben Marrett | Full Stack Developer
+## QA Engineer | Test Automation
 
-Building modern web solutions for local businesses at Kaipara Webworks.
+Building automated test suites and ensuring quality in web applications.
 
-#### Tech Stack
-- TypeScript | React | Node.js
-- Modern Development: Cursor IDE with AI assistance
-- Focus on accessibility and performance
+### Tech Stack
+* **Testing & QA:** Playwright | TypeScript | SQL | Postman | k6
+* **Development:** React | Node.js | JavaScript/TypeScript
+* **Tools:** Git | CI/CD | Modern development workflows
 
-#### Current Focus
-- 🚀 Developing scalable website templates for small businesses
-- 🌱 Specializing in SEO-optimized, accessible web solutions
-- 💡 Exploring AI-enhanced development workflows
+### What I Do
+* 🧪 Automated testing for web applications
+* 🔍 Quality assurance
+* 🚀 Building maintainable, scalable test frameworks
+* 🌐 Web development at Kaipara Webworks
 
 #### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-teiko-marrett/)
