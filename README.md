@@ -14,13 +14,15 @@ Building automated test suites and ensuring quality in web applications.
 * 🌐 Web development at Kaipara Webworks
 
 ### Current personal interests & areas of study/practice
-* Zero-Knowledge Proofs / Privacy / Zcash / Cryptography
+* Zero-Knowledge Proofs / Privacy / Zcash / Cryptography 
 * Cypress
 * AI use in QA
 
-#### Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-teiko-marrett/)
+### Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-teiko-marrett/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benteiko@gmail.com)
+[![X](https://img.shields.io/badge/@teikoben-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/teikoben)
 
-#### Problem Solving
+
+### Problem Solving
 [![CodeWars](https://www.codewars.com/users/BenTeiko/badges/large)](https://www.codewars.com/users/BenTeiko/completed_solutions)
