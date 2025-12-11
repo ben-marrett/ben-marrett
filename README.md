@@ -24,11 +24,3 @@ Building automated test suites and ensuring quality in web applications.
 
 #### Problem Solving
 [![CodeWars](https://www.codewars.com/users/BenTeiko/badges/large)](https://www.codewars.com/users/BenTeiko/completed_solutions)
-
-<div align="left">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-marrett&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-marrett&layout=compact&theme=default&hide_border=true)
-
-</div>
