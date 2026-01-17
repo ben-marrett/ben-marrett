@@ -1,11 +1,11 @@
-## QA Engineer | Test Automation | Builder
+## Software Developer | QA & Test Automation | Builder
 
+Building tools and websites that solve real problems.
 Automated testing, quality assurance and friction reviews for web applications.  
-Building tools that solve real problems.
 
 ### Tech Stack
-* **Testing & QA:** Playwright | TypeScript | SQL | Postman | k6
 * **Development:** React | Next | Node.js | JavaScript/TypeScript | Rust
+* **Testing & QA:** Playwright | TypeScript | SQL | Postman | k6
 * **Tools:** Git | CI/CD | Modern development workflows
 
 ### What I Do
@@ -15,7 +15,7 @@ Building tools that solve real problems.
 * 🌐 Web development at Kaipara Webworks
 
 ### Current Focus
-* AI-assisted QA workflows
+* AI-assisted workflows
 * Privacy tech & Zero-Knowledge Proofs
 * Open source tools for crypto users
 
