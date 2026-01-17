@@ -1,6 +1,6 @@
 ## Software Developer | QA & Test Automation | Builder
 
-Building tools and websites that solve real problems.
+Building tools and websites that solve real problems.  
 Automated testing, quality assurance and friction reviews for web applications.  
 
 ### Tech Stack
