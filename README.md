@@ -1,23 +1,23 @@
-## Software Developer | QA & Test Automation | Builder
+## Quality Engineer | Test Automation | Software Builder
 
-Building tools and websites that solve real problems.  
-Automated testing, quality assurance and friction reviews for web applications.  
+I help teams and founders ship reliable, user-centred software by finding technical, workflow, and user-facing friction early.  
+My work spans test automation, API and platform testing, CI/CD integration, and hands-on building, across enterprise systems, privacy-focused products, and indie software.  
 
 ### Tech Stack
-* **Development:** React | Next | Node.js | JavaScript/TypeScript | Rust
-* **Testing & QA:** Playwright | TypeScript | SQL | Postman | k6
-* **Tools:** Git | CI/CD | Modern development workflows
+* **Development:** JavaScript / TypeScript | Node.js | React | Next.js  
+* **Testing & QA:** Playwright | API Testing (Postman) | SQL | k6  
+* **Practices:** CI/CD | Quality Engineering | Exploratory & Risk-based Testing
 
 ### What I Do
-* 🧪 Automated testing & quality assurance
-* 🛠️ CLI tools & dev utilities
-* 🚀 Building maintainable test frameworks
-* 🌐 Web development at Kaipara Webworks
+* 🧪 Test automation & quality engineering for complex systems  
+* 🛠️ Build and maintain automation frameworks and developer tools  
+* 🔍 Identify product and workflow friction through hands-on testing  
+* 🌐 Web development & testing at Kaipara Webworks
 
 ### Current Focus
-* AI-assisted workflows
-* Privacy tech & Zero-Knowledge Proofs
-* Open source tools for crypto users
+* AI-assisted testing and development workflows  
+* Privacy-first software and digital wallets 
+* Helping early-stage products find and fix quality gaps
 
 ### Projects
 * shieldstack - CLI portfolio tracker for ZEC/BTC
