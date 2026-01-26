@@ -20,7 +20,7 @@ My work spans test automation, API and platform testing, CI/CD integration, and 
 * Helping early-stage products find and fix quality gaps
 
 ### Projects
-* shieldstack - CLI portfolio tracker for ZEC/BTC
+* **[shieldstack](https://www.npmjs.com/package/shieldstack)** – CLI portfolio tracker for ZEC/BTC
 
 ### Connect
 [![X](https://img.shields.io/badge/@teikoben-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/teikoben)
